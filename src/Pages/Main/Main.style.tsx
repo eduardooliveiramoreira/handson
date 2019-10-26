@@ -1,5 +1,4 @@
 import {makeStyles} from "@material-ui/core";
-import {url} from "inspector";
 
 export const mainPageStyle = makeStyles(theme => ({
     mainDiv: {
